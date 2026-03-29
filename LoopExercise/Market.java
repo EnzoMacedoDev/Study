@@ -48,5 +48,6 @@ public class Market {
         System.out.println("      OBRIGADO PELA PREFERÊNCIA");
         System.out.println("======================================");
         
+        scanner.close();
     }
 }
