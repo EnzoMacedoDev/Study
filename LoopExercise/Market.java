@@ -7,7 +7,7 @@ public class Market {
         double precoItem = -1, valorTotal = 0;
         int totalItens = 0;
 
-        System.out.println("Bem vindo ao super mercado java!");
+        System.out.println("Bem vindo ao super mercado CAROLS!");
 
         while (precoItem != 0) {
 
@@ -21,7 +21,7 @@ public class Market {
         }
 
         System.out.println("\n======================================");
-        System.out.println("          SUPER MERCADO ENZO");
+        System.out.println("          SUPER MERCADO CAROLS");
         System.out.println("======================================");
 
         System.out.print("Gerando cupom...");

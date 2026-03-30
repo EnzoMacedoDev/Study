@@ -54,6 +54,6 @@ public class LuckLogic {
                 System.out.println("Que pena, você faliu. Estude mais e tente novamente.");
             }
         }
-
+        sc.close();
     }
 }
