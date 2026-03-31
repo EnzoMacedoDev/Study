@@ -23,5 +23,6 @@ public class SecretNumber {
                 System.out.println("Congrats! you found the correct number in " + attempts + " attempts");
             }
         }
+        sc.close();
     }
 }
