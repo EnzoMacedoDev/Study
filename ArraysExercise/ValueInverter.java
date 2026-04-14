@@ -21,8 +21,6 @@ public class ValueInverter {
             System.out.print(invertArray[i] + " ");
         }
 
-
-
         sc.close();
-    }
+    }   
 }
