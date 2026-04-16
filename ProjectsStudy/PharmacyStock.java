@@ -20,7 +20,7 @@ public class PharmacyStock {
             System.out.println("1 - ADD TO STOCK");
             System.out.println("2 - MAKE SALE");
             System.out.println("3 - CHECK COMPARTMENT");
-            System.out.println("4 - GENERAL INVENTORY (SUM ALL ITEMS IN THE STOCK)");
+            System.out.println("4 - GENERAL INVENTORY (SUM ALL ITEMS THE STOCK)");
             System.out.println("5 - EXIT");
 
             choice = sc.nextInt();
